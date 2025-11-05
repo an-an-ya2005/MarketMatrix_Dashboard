@@ -16,3 +16,4 @@ Interactive filters and slicers for deep data exploration
 
 Dataset: SuperStore_Sales_Dataset.csv
 Tools Used: Power BI / Excel (Pivot Charts, PowerPivot, Maps, KPIs)
+
